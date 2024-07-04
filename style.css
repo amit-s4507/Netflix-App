@@ -45,3 +45,11 @@ nav button{
     margin-left: 10px;
     cursor:pointer;
 }
+
+.language-btn{
+    display: inline-flex;
+    align-items: center;
+    background: transparent;
+    border: 1px solid #fff;
+    padding: 7px 10px;
+}
