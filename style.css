@@ -74,3 +74,17 @@ nav button{
     font-weight:600;
     max-width:650px;
 }
+
+.header-content h1{
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.email-signup{
+    background: #fff;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    overflow:hidden;
+}
