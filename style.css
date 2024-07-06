@@ -67,3 +67,10 @@ nav button{
     text-align: center;
     margin-top:100px;
 }
+
+.header-content h1{
+    font-size: 60px;
+    line-height: 70px;
+    font-weight:600;
+    max-width:650px;
+}
